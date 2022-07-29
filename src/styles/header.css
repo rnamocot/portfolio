@@ -56,8 +56,7 @@
     color: #ff0081;
     font-weight: 900;
     font-size: 40px;
-    animation-duration: 3s;
-    animation-name: slidein;
+ 
 }
 @keyframes shake{
     0% { transform: rotate(0); }
