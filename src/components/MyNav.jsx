@@ -13,7 +13,7 @@ const MyNav = () => {
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="col-md-12 justify-content-end nav-list">
-                                <Nav.Link href="/">Home</Nav.Link>
+                                <Nav.Link href="/portfolio//">Home</Nav.Link>
                                 <Nav.Link href="/portfolio/#about">About</Nav.Link>
                                 <Nav.Link href="/portfolio/#skills">Skills</Nav.Link>
                                 <Nav.Link href="/portfolio/#projects">Projects</Nav.Link>
