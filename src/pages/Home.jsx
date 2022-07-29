@@ -51,7 +51,7 @@ const Home = () => {
                             <div className='bio-contents'>
                                 <p>Hi, I'm Renie Namocot, currently working as Web Developer in an Australian company. I graduated a Bachelor of Science in Information Techonology (BSIT) in the Phillipines.</p>
                                 <p>Previously, I worked in some local companies here in the Philippines as a Web Developer, where I worked on developing company websites and e-commerce sites, applications and and online softwares for companies.</p>
-                                <p>Aside from work, I harness my skills at home by creating some website designs and applications using newly release updates ofn programming languages and frameworks.</p>
+                                <p>Aside from work, I harness my skills at home by creating some website designs and applications using newly release updates on programming languages and frameworks.</p>
                             </div>
                             <div className='row educ-row'>
                                 <div className='col-md-7'>
