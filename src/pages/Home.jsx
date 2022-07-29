@@ -186,7 +186,7 @@ const Home = () => {
                                     <h4>EMAPTA</h4>
                                 </div>
                                 <div className='exp-work-text'>
-                                    <p>Built and maintain websites from clients , this includes seo optimsation and support google ads marketing for data and analytics. using (HTML, CSS, Bootstrap, React, Js and Git). I handled various of CMS as well like Shopify, Wordpress , Magento, Bigcommerce, Squarespace that depends on clients requirements</p>
+                                    <p>Built and maintain websites from clients , this includes seo optimsation and support google ads marketing for data and analytics. using (PHP, HTML, CSS, Bootstrap, React Js ,Jquery and Git). I handled various of CMS as well like Shopify, Wordpress , Magento, Bigcommerce, Squarespace that depends on clients requirements</p>
                                 </div>
                                 <div className='exp-work-year'>
                                     <h6>2020 - Current</h6>
@@ -201,7 +201,7 @@ const Home = () => {
                                     <h4>Gazillionaires Trading Inc</h4>
                                 </div>
                                 <div className='exp-work-text'>
-                                    <p>I am a sole website developer, I built company static and e-commerce websites - using (HTML, CSS , JS ,Git and API)</p>
+                                    <p>I am a sole website developer, I built company static and e-commerce websites - using (HTML, CSS , JS, Jquery, Git and API)</p>
                                 </div>
                                 <div className='exp-work-year'>
                                     <h6>2019 - 2020</h6>
@@ -216,7 +216,7 @@ const Home = () => {
                                     <h4>LTY Group Philippines Inc.</h4>
                                 </div>
                                 <div className='exp-work-text'>
-                                    <p>Built and maintain company websites - using (PHP, JS, CSS ,Git, HTML and Wordpress)</p>
+                                    <p>Built and maintain company websites - using (PHP, JS, Jquery, CSS ,Git, HTML and Wordpress)</p>
                                 </div>
                                 <div className='exp-work-year'>
                                     <h6>Aug 2019 - Oct 2019</h6>
@@ -231,7 +231,7 @@ const Home = () => {
                                     <h4>Business Swicth Manila</h4>
                                 </div>
                                 <div className='exp-work-text'>
-                                    <p>Built company websites for Australian business owners - using (PHP, JS, Angular JS, CSS , HTML, Git and Wordpress) in Agile Development flow</p>
+                                    <p>Built company websites for Australian business owners - using (PHP, JS, Angular JS, Jquery, CSS , HTML, Git and Wordpress) in Agile Development flow</p>
                                 </div>
                                 <div className='exp-work-year'>
                                     <h6>2017 - 2019</h6>
