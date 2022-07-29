@@ -186,7 +186,7 @@ const Home = () => {
                                     <h4>EMAPTA</h4>
                                 </div>
                                 <div className='exp-work-text'>
-                                    <p>Built and maintain websites from clients , this includes seo optimsation and support google ads marketing for data and analytics. using (HTML, CSS, Bootstrap,React Js, JS and Git). I handled various of CMS as well like Shopify, Wordpress , Magento, Bigcommerce, Squarespace that depends on clients requirements</p>
+                                    <p>Built and maintain websites from clients , this includes seo optimsation and support google ads marketing for data and analytics. using (HTML, CSS, Bootstrap, React, Js and Git). I handled various of CMS as well like Shopify, Wordpress , Magento, Bigcommerce, Squarespace that depends on clients requirements</p>
                                 </div>
                                 <div className='exp-work-year'>
                                     <h6>2020 - Current</h6>
@@ -216,7 +216,7 @@ const Home = () => {
                                     <h4>LTY Group Philippines Inc.</h4>
                                 </div>
                                 <div className='exp-work-text'>
-                                    <p>Built and maintain company websites - using (PHP, JS, JS, CSS ,Git, HTML and Wordpress)</p>
+                                    <p>Built and maintain company websites - using (PHP, JS, CSS ,Git, HTML and Wordpress)</p>
                                 </div>
                                 <div className='exp-work-year'>
                                     <h6>Aug 2019 - Oct 2019</h6>
